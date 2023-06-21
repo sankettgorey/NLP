@@ -9,3 +9,8 @@
     * Due to hardware constraints, there were some limitations in training the model so you might get false results sometimes.
     * To use BERT model, use this link to download the model and keep the model in the same folder: 
     `https://drive.google.com/drive/folders/1ZMCiXK1nmZ4VIt32C91HAJ9tLrSIfvM2?usp=sharing`
+
+
+For other projects with model training notebooks:
+bike demand prediction: `https://github.com/sankettgorey/Bike-Demand-Prediction`
+ten year heart disease prediction: `https://github.com/sankettgorey/Ten-Year-CHD-Prediction`
