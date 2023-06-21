@@ -14,3 +14,4 @@
 For other projects with model training notebooks:
 bike demand prediction: `https://github.com/sankettgorey/Bike-Demand-Prediction`
 ten year heart disease prediction: `https://github.com/sankettgorey/Ten-Year-CHD-Prediction`
+neural machine translation with and without attention: `https://github.com/sankettgorey/Machine_Translation_eng_fr`
